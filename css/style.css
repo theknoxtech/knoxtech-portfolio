@@ -248,7 +248,7 @@ a:focus {
     margin-bottom: 45px;
     padding: 120px 0 0 0;
     overflow: hidden;
-    background: linear-gradient(rgba(0, 10, 30, .95), rgba(0, 10, 30, .95)), url(../img/bg-wiring2.png);
+    background: linear-gradient(rgba(10, 46, 27, .85), rgba(19, 137, 196, .80)), url(../img/bg-wiring2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
